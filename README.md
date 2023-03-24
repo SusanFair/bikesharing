@@ -44,7 +44,7 @@ Is there a way to maintain such a diverse number of movable objects?  Maintenanc
 
 See the full story -  [CitiBike Research Story Live](https://susanfair.github.io/bikesharing/)
 
-The story can also be found on Tableau: [CitiBike Research Story on Tableau website]https://public.tableau.com/views/CitiBikeChallenge_16791004653260/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+The story can also be found on Tableau: [CitiBike Research Story on Tableau website](https://public.tableau.com/views/CitiBikeChallenge_16791004653260/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 ## Summary: 
