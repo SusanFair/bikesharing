@@ -42,9 +42,10 @@ Is there a way to maintain such a diverse number of movable objects?  Maintenanc
 ![Alt text](https://github.com/SusanFair/bikesharing/blob/main/Resources/MaintenanceDashboard.PNG)
 
 
-To see the full story -  ![CitiBike Research Story]https://public.tableau.com/views/CitiBikeChallenge_16791004653260/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+See the full story -  [CitiBike Research Story Live](https://susanfair.github.io/bikesharing/)
 
-Or go to the bikesharing GitHub pages. [This label](https://susanfair.github.io/bikesharing/)
+The story can also be found on Tableau: [CitiBike Research Story on Tableau website]https://public.tableau.com/views/CitiBikeChallenge_16791004653260/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 
 ## Summary: 
 The CitiBike program in New York has a lot going for it.  It is already established with installations focused on the core or Manhatten but very braodly spread through the surrounding suburbs as well.  This provides versitility and well as close availability to the users.  While their rides are not long their subscriber base are faithful making up the core of their business.   
