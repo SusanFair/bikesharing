@@ -16,11 +16,36 @@ Key Questions:
 ## Results: 
 Answers to the key questions can be seen in the following visualizations.
 
-Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+### Trip Duration: 
+How long are people ridine?
+
+![Trip Duration](https://github.com/SusanFair/bikesharing/blob/main/Resources/TripDurationDashboard.PNG)
+
+### Timing: 
+What days and hours of the day are most popular?
+
+![Timing](https://github.com/SusanFair/bikesharing/blob/main/Resources/TimingDashboard.PNG)
+
+### Key Users: 
+Is there a Super User demographic? What is it? Age, gender, location?
+
+![Key Users](https://github.com/SusanFair/bikesharing/blob/main/Resources/KeyUsersDashboard.PNG)
+
+### Station Location:  
+How many pick up an drop of locatins? What is their distribution?
+
+![Location](https://github.com/SusanFair/bikesharing/blob/main/Resources/LocationDashboard.PNG)
+
+### Maintenance:  
+Is there a way to maintain such a diverse number of movable objects
+
+![Alt text](https://github.com/SusanFair/bikesharing/blob/main/Resources/MaintenanceDashboard.PNG)
+
+To see the full story -  https://public.tableau.com/views/CitiBikeChallenge_16791004653260/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
-![TripDuration]https://public.tableau.com/views/CitiBikeChallenge_16791004653260/TripDuration?:language=en-US&:display_count=n&:origin=viz_share_link
 
+Or see the CitiBike Research story here
 
 ## Summary: 
 The CitiBike program in New York has a lot going for it.  It is already established with installations focused on the core or Manhatten but very braodly spread through the surrounding suburbs as well.  This provides versitility and well as close availability to the users.  While their rides are not long their subscriber base are faithful making up the core of their business.   
